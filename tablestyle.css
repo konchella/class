@@ -1,0 +1,17 @@
+table{
+    font-family: "Arial Black";
+    width: 100%;
+    color: #843aa8;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid #ff0062;
+    padding: 4px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+th{
+    background-color: darkgrey;
+}

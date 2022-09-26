@@ -1,0 +1,14 @@
+h2{
+    font-family: Arial;
+    text-align: center;
+    color: darkblue;
+}
+form{
+    font-family: "Berlin Sans FB";
+    color: #ff0062;
+    font-size: large;
+}
+label{
+    text-align: left;
+    display: block;
+}

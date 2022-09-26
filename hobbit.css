@@ -1,0 +1,8 @@
+body{
+    background-image: url("Images/paper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: #ff0062;
+}

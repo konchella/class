@@ -1,0 +1,17 @@
+h2{
+    color: chocolate;
+    text-align: center;
+    border: 1px dot-dot-dash darkgreen;
+    font-family: "Arial Black";
+}
+ul{
+    color: cyan;
+    font-family: "Berlin Sans FB";
+}
+ol{
+    color: crimson;
+    font-family: "Britannic Bold";
+}
+body{
+    background-color: #3bbb9d;
+}
